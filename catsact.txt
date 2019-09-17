@@ -1,0 +1,19 @@
+@system curtain 2
+@system title Laura&Magi VII
+@system curtain 1
+@system create Laura normal 4 20 10 1
+@system create Magi extended 6 30 15 1
+@system scene 0
+@Laura say Meeeeooouuu
+@Magi say Miaaaarrrr
+@Magi move ne
+@Magi say Laura you must not eat my food
+@Magi move nw
+@Magi move s
+@Laura say Meeeeooouu
+@Magi say Da Laura losha
+@Laura say Meeeeooouueeeououou
+@system finale
+@system announce Thank you for coming!
+@system curtain 2
+@system fileclose
